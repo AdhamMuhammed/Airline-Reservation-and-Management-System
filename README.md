@@ -1,10 +1,10 @@
-# ✈️ Airline Reservation and Management System
+# Airline Reservation and Management System
 
 A console-based **Airline Reservation and Management System** developed in **C++** using **Object-Oriented Programming (OOP)** and Modern C++ features.
 
 The system simulates the main operations of an airline, supporting different user roles and providing functionality for flight management, reservations, passenger management, check-in, aircraft maintenance, and reporting.
 
-## 📌 Project Overview
+## Project Overview
 
 The system supports three main user roles:
 
@@ -14,9 +14,9 @@ The system supports three main user roles:
 
 Each role has access to different functionalities through a role-based authentication system.
 
-## 🚀 Key Features
+## Key Features
 
-### 👨‍💼 Administrator
+### Administrator
 
 - User account management
 - Flight scheduling and management
@@ -27,7 +27,7 @@ Each role has access to different functionalities through a role-based authentic
 - Maintenance reports
 - User activity reports
 
-### 🎫 Booking Agent
+### Booking Agent
 
 - Search for available flights
 - Create reservations
@@ -38,7 +38,7 @@ Each role has access to different functionalities through a role-based authentic
 - Refund processing
 - Airport check-in assistance
 
-### 👤 Passenger
+### Passenger
 
 - Search for available flights
 - Book flights
@@ -49,7 +49,7 @@ Each role has access to different functionalities through a role-based authentic
 - Manage passenger information
 - Loyalty program support
 
-## ✈️ Flight Management
+## Flight Management
 
 The system manages flight information including:
 
@@ -62,7 +62,7 @@ The system manages flight information including:
 
 It also supports flight searching and filtering based on different criteria.
 
-## 🛫 Aircraft & Crew Management
+## Aircraft & Crew Management
 
 The system maintains aircraft information, including:
 
@@ -73,7 +73,7 @@ The system maintains aircraft information, including:
 
 Administrators can also assign pilots and flight attendants to flights.
 
-## 🎟️ Reservation System
+## Reservation System
 
 The reservation module supports:
 
@@ -87,13 +87,13 @@ The reservation module supports:
 - Simulated payments
 - Refund handling
 
-## 🛂 Check-In & Boarding
+## Check-In & Boarding
 
 Passengers can check in online and obtain a boarding pass.
 
 The system also supports airport check-in operations and boarding procedures.
 
-## 🛠️ Maintenance Tracking
+## Maintenance Tracking
 
 Aircraft maintenance can be tracked through:
 
@@ -103,7 +103,7 @@ Aircraft maintenance can be tracked through:
 - Issues encountered
 - Aircraft availability
 
-## 📊 Reporting
+## Reporting
 
 The system provides reports related to:
 
@@ -114,7 +114,7 @@ The system provides reports related to:
 - Aircraft utilization
 - User activities
 
-## 💾 Data Persistence
+## Data Persistence
 
 The project uses **file-based data storage** for persistent information.
 
@@ -123,7 +123,7 @@ Data is stored using files such as:
 - CSV files
 - Text files
 
-## 🧠 Technical Concepts
+## Technical Concepts
 
 The project applies several C++ and OOP concepts:
 
@@ -139,7 +139,7 @@ The project applies several C++ and OOP concepts:
 - File Handling
 - C++17 `<filesystem>`
 
-## 🛠️ Technologies
+## Technologies
 
 - **C++**
 - **C++17**
@@ -149,7 +149,7 @@ The project applies several C++ and OOP concepts:
 - **Makefile**
 - **CSV / File-based persistence**
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 Airline-Reservation-and-Management-System/
@@ -183,7 +183,7 @@ Airline-Reservation-and-Management-System/
     └── Makefile
 ```
 
-## 🔨 Build & Run
+## Build & Run
 
 Navigate to the `Source` directory:
 
@@ -203,7 +203,7 @@ Run the application:
 make run
 ```
 
-## 📋 Project Documentation
+## Project Documentation
 
 The `docs` directory contains project documentation, including:
 
@@ -212,6 +212,6 @@ The `docs` directory contains project documentation, including:
 - **UML** – Class diagram
 - Project documentation materials
 
-## 🎯 Project Objective
+## Project Objective
 
 The objective of this project is to simulate the comprehensive operations of an airline reservation and management system while applying **Object-Oriented Programming principles and Modern C++ features** in a practical software project.
